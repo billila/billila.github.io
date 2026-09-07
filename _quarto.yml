@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ilaria Billato"
+  image: files/ilaria_billato.jpeg
+
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "{{< fa house >}} Home"
+        file: index.qmd
+      - text: "{{< fa file-lines >}} Publications"
+        href: publications.qmd
+      - text: "{{< fa person-chalkboard >}} Talk"
+        href: talks.qmd
+      - text: "{{< fa pen-nib >}} Blog"
+        href: blog.qmd
+      - text: "{{< fa user >}} CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:ilaria.billato@unipd.it"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=dcHWfVIAAAAJ&hl=it&oi=ao"
+      - icon: github
+        href: "https://github.com/billila"
+      - icon: linkedin
+        href: "https://linkedin.com/in/ilaria-billato-4b7ba21b9/"
+      - icon: twitter
+        href: "https://twitter.com/ilabil96"
+
+  page-footer:
+    left: |
+      <span class="faux-block">© 2026 Ilaria Billato</span>
+    center: |
+      <span class="faux-block"><a href="https://github.com/billila/billila.github.io">{{< fa brands github >}} Source Code</a></span>
+    right: |
+      <span class="faux-block">Built with <a href="https://quarto.org/">Quarto</a></span>
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.css
+    toc: true
+    page-layout: full
+    fontsize: 1.23em
+    linestretch: 1.7
