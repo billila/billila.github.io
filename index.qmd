@@ -1,0 +1,40 @@
+---
+title: "Ilaria Billato"
+image: files/ilaria_billato.jpeg
+about:
+  template: jolla
+engine: knitr
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.home-content .justify}
+I am a Postdoctoral Scholar at the [Department of Biology, University of Padova](https://www.biologia.unipd.it/), where I work at the intersection of computational pathology, bioinformatics, and multi-omics data integration. My research focuses on developing efficient and scalable statistical/computational methods for single-cell RNA-seq, spatial transcriptomics, and whole-slide histopathology image analysis.
+
+In my work on digital pathology, I design and benchmark algorithms for whole-slide image analysis — including cell segmentation, feature extraction, and representation learning — using CNNs and foundation models to extract morphological and spatial features, and to integrate imaging with molecular data for cancer research.
+
+This methodological work extends to the development of open-source [software](publications.qmd#software), where I build R/Bioconductor packages and reproducible workflows for omics and imaging data, with an emphasis on GPU-accelerated methods and R–Python interoperability.
+
+I have also enjoyed teaching statistics, genomics, and bioinformatics to students at the University of Padova, and I'm actively involved in the Bioconductor community, including co-organizing the CSAMA summer school.
+
+**News**
+
+::: {.news-timeline}
+<div class="news-row">
+  <div class="news-date">Jun 2026</div>
+  <div class="news-entry">Presented at SIS-FENStatS 2026 in Rome on integrating histopathology and multi-omics data in breast cancer.</div>
+</div>
+<div class="news-row">
+  <div class="news-date">Oct 2025</div>
+  <div class="news-entry">Started as Postdoctoral Scholar in the Romualdi lab, Department of Biology, University of Padova.</div>
+</div>
+<div class="news-row">
+  <div class="news-date">Sep 2025</div>
+  <div class="news-entry">PhD completed with evaluation <em>Excellent cum Laude</em>.</div>
+</div>
+:::
+:::
