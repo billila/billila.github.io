@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "First post",
+    "section": "",
+    "text": "Contenuto del primo post."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Contenuto in arrivo."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Note\n\n\n\nPuoi scaricare la versione PDF completa qui."
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "CV",
+    "section": "Employment",
+    "text": "Employment\nPostdoctoral Scholar — Department of Biology, University of Padova Oct 2025 – present · Supervisor: Prof. Chiara Romualdi\nStatistician — Department of Surgery, Oncology, Gastroenterology, University of Padova Aug 2021 – present · Supervisor: Prof. Umberto Cillo"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD in Biosciences: Genetics, Genomics and Bioinformatics — University of Padova Oct 2022 – Sep 2025 · Evaluation: Excellent cum Laude Supervisor: Prof. Chiara Romualdi · Co-supervisor: Prof. Davide Risso Thesis: Development of efficient and scalable methods for omic data analyses in cancer biology\nVisiting PhD Student — Graduate School of Public Health and Health Policy, CUNY, New York City Oct 2024 – Apr 2025 · Supervisor: Prof. Levi Waldron · Co-supervisor: Prof. Sehyun Oh\nMS in Statistical Sciences — University of Padova 2018 – 2020 · Grade: 102/110 Thesis: Reconstructing the phylogenetic tree of the SARS-CoV-2 virus using the maximum likelihood method (Supervisor: Prof. Davide Risso)\nBSc in Statistics for Economics and Business — University of Padova 2015 – 2018 · Grade: 96/110 Thesis: Control charts for processes with measurement errors"
+  },
+  {
+    "objectID": "cv.html#phd-thesis",
+    "href": "cv.html#phd-thesis",
+    "title": "CV",
+    "section": "PhD Thesis",
+    "text": "PhD Thesis\nDevelopment of efficient and scalable methods for omic data analyses in cancer biology\nThe thesis addresses the computational challenges posed by large-scale single-cell and digital pathology data. It benchmarks state-of-the-art PCA/SVD algorithms and GPU-accelerated pipelines for single-cell datasets with millions of cells, and develops workflows to extract and integrate nuclei-level and slide-level features from over 11,000 TCGA histopathology images, releasing dedicated R/Bioconductor tools and a Shiny application."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\nResearch Fellowship — Department of Statistical Science, University of Padova Feb – Aug 2021 · Project “Multi-sample differential analysis of single-cell sequencing data,” funded by NIH U24 grant “Cancer Genomics: Integrative and Scalable Solutions in R/Bioconductor” (PI: Dr. Martin Morgan, co-I: Dr. Davide Risso)"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nUniversity of Padova\n\n\n\n\n\n\n\n\nCourse\nProgramme\nYears\n\n\n\n\nAdvanced Statistics and Data Analysis\nMS in Quantitative and Computational Biosciences\n2025/26\n\n\nGenomics and NGS Data Analysis\nMS in Quantitative and Computational Biosciences\n2025/26\n\n\nSystems Biology\nMS in Quantitative and Computational Biosciences\n2024/25\n\n\nGenomics and NGS Data Analysis\nMS in Molecular Biology\n2022/23 – 2023/24\n\n\nStatistics\nBSc in Biotechnology\n2021/22\n\n\n\nAlso created educational videos on Cluster Analysis (Call for the Improvement of Teaching 2021)."
+  },
+  {
+    "objectID": "cv.html#short-courses-and-summer-schools",
+    "href": "cv.html#short-courses-and-summer-schools",
+    "title": "CV",
+    "section": "Short Courses and Summer Schools",
+    "text": "Short Courses and Summer Schools\n\nISMB/ECCB 2023 Workshop: Orchestrating Large-Scale Single-Cell Analysis with Bioconductor — Lyon, France, Jul 2023\nSummer School CSAMA2024 — Biological Data Science, Bressanone, Jun 2024\nSummer School CSAMA2025 — Biological Data Science, Bressanone, Jul 2025"
+  },
+  {
+    "objectID": "cv.html#awards-and-scholarships",
+    "href": "cv.html#awards-and-scholarships",
+    "title": "CV",
+    "section": "Awards and Scholarships",
+    "text": "Awards and Scholarships\n\n\n\n\n\n\n\nDate\nAward\n\n\n\n\n09/2025\nEuroBioc25 travel fellowship, EMBL\n\n\n06/2025\nGBCC2025 travel fellowship, EMBL\n\n\n09/2024\nEMBO 2024 travel fellowship, EMBO\n\n\n09/2024\nECCB2024 travel fellowship, ISMB\n\n\n09/2024\nEuroBioc24 travel fellowship, EMBL\n\n\n09/2023\nEuroBioc23 travel fellowship, EMBL\n\n\n10/2022\nThree-year doctoral scholarship, Department of Biology, University of Padova\n\n\n03/2021\nFellowship, EU project UnCoVer – “Unravelling Data for Rapid Evidence-Based Response to COVID-19,” ULSS 6, Regione Veneto"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "CV",
+    "section": "Professional Service",
+    "text": "Professional Service\n\n2026 — Member of the Organization Committee, Summer School CSAMA2026\n2025 — Member of the Program Committee, CIBB (Special Session: HPCAIG – High Performance Computing for AI-driven Genomics)\n2025 — Member of the Organization Committee, Summer School CSAMA2025\n2024 — Member of the Organization Committee, Summer School CSAMA2024\n2025 — Working group: Multi-omic Integration of Histopathology Image Analysis, Bioconductor\n2017 — Volunteer, StatisticAll Treviso (with ISTAT)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Advanced — R, Bioconductor, Python, LaTeX, Slurm, Docker, Singularity, Apptainer, conda, mamba, Git/GitHub · Intermediate — MySQL, Gretl, SAS, STATA, Office · Basic — HTML, CSS, C\nBioinformatics software: CellProfiler, QuPath, PathML, ImageJ, salmon, RSEM, cutadapt\nOperating systems: Windows, Linux, macOS\nLanguages: Italian (mother tongue) · English (B2) · French (basic)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ilaria Billato",
+    "section": "",
+    "text": "I am a Postdoctoral Scholar at the Department of Biology, University of Padova, where I work at the intersection of computational pathology, bioinformatics, and multi-omics data integration. My research focuses on developing efficient and scalable statistical/computational methods for single-cell RNA-seq, spatial transcriptomics, and whole-slide histopathology image analysis.\nIn my work on digital pathology, I design and benchmark algorithms for whole-slide image analysis — including cell segmentation, feature extraction, and representation learning — using CNNs and foundation models to extract morphological and spatial features, and to integrate imaging with molecular data for cancer research.\nThis methodological work extends to the development of open-source software, where I build R/Bioconductor packages and reproducible workflows for omics and imaging data, with an emphasis on GPU-accelerated methods and R–Python interoperability.\nI have also enjoyed teaching statistics, genomics, and bioinformatics to students at the University of Padova, and I’m actively involved in the Bioconductor community, including co-organizing the CSAMA summer school.\nNews\n\n\n\nJun 2026\n\n\nPresented at SIS-FENStatS 2026 in Rome on integrating histopathology and multi-omics data in breast cancer.\n\n\n\n\nOct 2025\n\n\nStarted as Postdoctoral Scholar in the Romualdi lab, Department of Biology, University of Padova.\n\n\n\n\nSep 2025\n\n\nPhD completed with evaluation Excellent cum Laude."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "D’Amico FE, Mescoli C, Caregari S, Pasquale A, Billato I, et al. (2022). Impact of positive radial margin on recurrence and survival in perihilar cholangiocarcinoma. Cancers, 14(7):1680.\nLanari J, Caregari S, Billato I, Gringeri E, D’Amico F, et al. (2023). Textbook outcome of laparoscopic microwave ablation for hepatocellular carcinoma. Cancers, 15(2):436.\nRomano P, Busti M, Billato I, D’Amico F, Marchegiani G, et al. (2024). Liver resection versus radiofrequency ablation or trans-arterial chemoembolization for early-stage (BCLC A) oligo-nodular hepatocellular carcinoma: meta-analysis. BJS Open, 8(1):zrad158.\nVitale A, Trapani S, Russo FP, Miele L, Svegliati Baroni G, et al. (2024). Waiting list mortality and 5-year transplant survival benefit of patients with MASLD: an Italian liver transplant registry study. JHEP Reports, 6(9):101147.\nLanari J, Lupi A, Billato I, Alessandris R, Crimì F, et al. (2024). Textbook outcome and nomogram-guided approaches for enhancing surgical success in elderly HCC patients: deciphering the influence of sarcopenia. Updates in Surgery, 1–10.\nGringeri E, Furlanetto A, Billato I, Cescon M, De Carlis L, et al. (2024). The Italian experience on liver transplantation for unresectable peri-hilar cholangiocarcinoma: a national survey and future perspectives. Updates in Surgery, 1–9.\nCillo U, Caregari S, Barabino M, Billato I, Marchini A, et al. (2025). Hierarchically positioning laparoscopic microwave ablation in the therapeutic span of early hepatocellular carcinoma: a real-life comparative analysis. Annals of Surgical Oncology, 32(2):1063–1072.\nBoso D, Piga I, Trento C, Minuzzo S, Angi E, et al. (2024). Pathogenic mitochondrial DNA variants are associated with response to anti-VEGF therapy in ovarian cancer PDX models. Journal of Experimental & Clinical Cancer Research, 43(1):325.\nVitale A, Lanari J, Cillo U, Billato I, Rovetta A, et al. (2025). Sex-based differences in survival after liver transplantation for colorectal cancer liver metastases: a multivariable analysis. JHEP Reports, 101505.\nCrowell HL, Dong Y, Billato I, Cai P, Emons M, et al. (2025). Orchestrating spatial transcriptomics analysis with Bioconductor. bioRxiv, 2025–11.\nBillato I, Pagès H, Carey V, Waldron L, Sales G, Romualdi C, Risso D (2025). Benchmarking large-scale single-cell RNA-seq analysis. bioRxiv, 2025–10.\nLanari J, Lazzari S, Billato I, Naldini C, De Nardi C, et al. (2026). Microwave ablation for the treatment of non-colorectal cancer liver metastasis. Cancers, 18(13):2026."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "D’Amico FE, Mescoli C, Caregari S, Pasquale A, Billato I, et al. (2022). Impact of positive radial margin on recurrence and survival in perihilar cholangiocarcinoma. Cancers, 14(7):1680.\nLanari J, Caregari S, Billato I, Gringeri E, D’Amico F, et al. (2023). Textbook outcome of laparoscopic microwave ablation for hepatocellular carcinoma. Cancers, 15(2):436.\nRomano P, Busti M, Billato I, D’Amico F, Marchegiani G, et al. (2024). Liver resection versus radiofrequency ablation or trans-arterial chemoembolization for early-stage (BCLC A) oligo-nodular hepatocellular carcinoma: meta-analysis. BJS Open, 8(1):zrad158.\nVitale A, Trapani S, Russo FP, Miele L, Svegliati Baroni G, et al. (2024). Waiting list mortality and 5-year transplant survival benefit of patients with MASLD: an Italian liver transplant registry study. JHEP Reports, 6(9):101147.\nLanari J, Lupi A, Billato I, Alessandris R, Crimì F, et al. (2024). Textbook outcome and nomogram-guided approaches for enhancing surgical success in elderly HCC patients: deciphering the influence of sarcopenia. Updates in Surgery, 1–10.\nGringeri E, Furlanetto A, Billato I, Cescon M, De Carlis L, et al. (2024). The Italian experience on liver transplantation for unresectable peri-hilar cholangiocarcinoma: a national survey and future perspectives. Updates in Surgery, 1–9.\nCillo U, Caregari S, Barabino M, Billato I, Marchini A, et al. (2025). Hierarchically positioning laparoscopic microwave ablation in the therapeutic span of early hepatocellular carcinoma: a real-life comparative analysis. Annals of Surgical Oncology, 32(2):1063–1072.\nBoso D, Piga I, Trento C, Minuzzo S, Angi E, et al. (2024). Pathogenic mitochondrial DNA variants are associated with response to anti-VEGF therapy in ovarian cancer PDX models. Journal of Experimental & Clinical Cancer Research, 43(1):325.\nVitale A, Lanari J, Cillo U, Billato I, Rovetta A, et al. (2025). Sex-based differences in survival after liver transplantation for colorectal cancer liver metastases: a multivariable analysis. JHEP Reports, 101505.\nCrowell HL, Dong Y, Billato I, Cai P, Emons M, et al. (2025). Orchestrating spatial transcriptomics analysis with Bioconductor. bioRxiv, 2025–11.\nBillato I, Pagès H, Carey V, Waldron L, Sales G, Romualdi C, Risso D (2025). Benchmarking large-scale single-cell RNA-seq analysis. bioRxiv, 2025–10.\nLanari J, Lazzari S, Billato I, Naldini C, De Nardi C, et al. (2026). Microwave ablation for the treatment of non-colorectal cancer liver metastasis. Cancers, 18(13):2026."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in preparation",
+    "text": "Manuscripts in preparation\n\nBillato I, Ramos Perez M, Omar M, Marchionni L, Davis S, Carey VJ, Pagès H, Risso D, Waldron L, Oh S, Romualdi C. Multi-modal integration of histopathology image and multi-omics data in R/Bioconductor (2025).\nRota Negroni M, Billato I, Romualdi C. From Genomic Instability to Prognosis: Copy Number Signature Clusters as Predictive Biomarkers Across Tumors (2025)."
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nOSTA — Orchestrating Spatial Transcriptomics Analysis with Bioconductor, Chapter 30: Image analysis. Link"
+  },
+  {
+    "objectID": "publications.html#software",
+    "href": "publications.html#software",
+    "title": "Publications",
+    "section": "Software",
+    "text": "Software\n\nimageTCGA — Shiny app to explore the TCGA Diagnostic Image Database. Bioconductor · GitHub\nimageFeatureTCGA — Imports extracted TCGA H&E image features into R and integrates them with multi-omics data. GitHub\nimageTCGAutils — Utility functions for CONCH data and nuclei-to-tile assignment. GitHub\nTCIAAPI — Interface to The Cancer Imaging Archive (TCIA) API for searching/downloading images. GitHub"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "First post\n\n\n\n\n\n\n\n\nSep 4, 2026\n\n\n\n\n\nNo matching items"
+  }
+]
