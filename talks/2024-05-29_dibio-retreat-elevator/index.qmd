@@ -1,0 +1,13 @@
+---
+title: "Comprehensive Benchmarking of Single-Cell RNA-Seq Analysis Workflows: Evaluating Scalability and Concordance Across R and Python Environments"
+author: "Ilaria Billato"
+date: "2024-05-29"
+categories: [Poster, Single-Cell, Benchmarking]
+description: "Poster and elevator pitch at the DiBio Retreat."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Poster coming soon.

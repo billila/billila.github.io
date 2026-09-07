@@ -1,0 +1,13 @@
+---
+title: "Ex Situ Liver Resection for Intrahepatic Cholangiocarcinoma: Survival Analysis and Comparison to Systematic Chemotherapy"
+author: "Ilaria Billato"
+date: "2023-03-15"
+categories: [Talk, Clinical]
+description: "4th European Congress of Medical Physics (ECPM)."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

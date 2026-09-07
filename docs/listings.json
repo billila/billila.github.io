@@ -4,5 +4,39 @@
     "items": [
       "/posts/first-post/index.html"
     ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/2026-09-30_gmtd2026-beyond-slide/index.html",
+      "/talks/2026-06-22_sis-fenstats-brca/index.html",
+      "/talks/2026-06-06_ascona2026-poster/index.html",
+      "/talks/2026-02-17_winter-school-basic-translational/index.html",
+      "/talks/2025-09-18_eurobioc2025-framework/index.html",
+      "/talks/2025-09-06_cibb2025-poster/index.html",
+      "/talks/2025-09-06_dibio-retreat-poster/index.html",
+      "/talks/2025-06-26_itcr-trainee-benchmark/index.html",
+      "/talks/2025-06-25_gbcc2025-framework/index.html",
+      "/talks/2025-04-07_ds4h-poster/index.html",
+      "/talks/2025-03-23_ascona-modern-benchmarking-poster/index.html",
+      "/talks/2024-12-14_scbs2024-bioconductor/index.html",
+      "/talks/2024-11-09_asiabioc2024-bioconductor/index.html",
+      "/talks/2024-09-16_eccb2024-poster/index.html",
+      "/talks/2024-09-08_ascona-workshop-poster/index.html",
+      "/talks/2024-09-04_eurobioc2024-bioconductor/index.html",
+      "/talks/2024-09-01_embo-spatial-biology-poster/index.html",
+      "/talks/2024-05-29_dibio-retreat-elevator/index.html",
+      "/talks/2024-04-17_deep-learning-biology-seminar/index.html",
+      "/talks/2024-03-21_ai4h-poster/index.html",
+      "/talks/2023-12-21_cineca-pnrr/index.html",
+      "/talks/2023-09-28_padua-network-medicine/index.html",
+      "/talks/2023-09-22_eurobioc23-scalablepca-poster/index.html",
+      "/talks/2023-07-24_ismbeccb2023-multiomics/index.html",
+      "/talks/2023-07-24_ismbeccb2023-scalablepca-poster/index.html",
+      "/talks/2023-07-23_ismbeccb2023-tutorial/index.html",
+      "/talks/2023-03-15_ecpm4-liver-resection/index.html",
+      "/talks/2022-08-17_ecpm4-radiomic-features/index.html",
+      "/talks/2021-09-20_ibs-scalablepca/index.html"
+    ]
   }
 ]

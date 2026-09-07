@@ -1,0 +1,34 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed
+
+1. D'Amico FE, Mescoli C, Caregari S, Pasquale A, **Billato I**, et al. (2022). Impact of positive radial margin on recurrence and survival in perihilar cholangiocarcinoma. *Cancers*, 14(7):1680.
+2. Lanari J, Caregari S, **Billato I**, Gringeri E, D'Amico F, et al. (2023). Textbook outcome of laparoscopic microwave ablation for hepatocellular carcinoma. *Cancers*, 15(2):436.
+3. Romano P, Busti M, **Billato I**, D'Amico F, Marchegiani G, et al. (2024). Liver resection versus radiofrequency ablation or trans-arterial chemoembolization for early-stage (BCLC A) oligo-nodular hepatocellular carcinoma: meta-analysis. *BJS Open*, 8(1):zrad158.
+4. Vitale A, Trapani S, Russo FP, Miele L, Svegliati Baroni G, et al. (2024). Waiting list mortality and 5-year transplant survival benefit of patients with MASLD: an Italian liver transplant registry study. *JHEP Reports*, 6(9):101147.
+5. Lanari J, Lupi A, **Billato I**, Alessandris R, Crimì F, et al. (2024). Textbook outcome and nomogram-guided approaches for enhancing surgical success in elderly HCC patients: deciphering the influence of sarcopenia. *Updates in Surgery*, 1–10.
+6. Gringeri E, Furlanetto A, **Billato I**, Cescon M, De Carlis L, et al. (2024). The Italian experience on liver transplantation for unresectable peri-hilar cholangiocarcinoma: a national survey and future perspectives. *Updates in Surgery*, 1–9.
+7. Cillo U, Caregari S, Barabino M, **Billato I**, Marchini A, et al. (2025). Hierarchically positioning laparoscopic microwave ablation in the therapeutic span of early hepatocellular carcinoma: a real-life comparative analysis. *Annals of Surgical Oncology*, 32(2):1063–1072.
+8. Boso D, Piga I, Trento C, Minuzzo S, Angi E, et al. (2024). Pathogenic mitochondrial DNA variants are associated with response to anti-VEGF therapy in ovarian cancer PDX models. *Journal of Experimental & Clinical Cancer Research*, 43(1):325.
+9. Vitale A, Lanari J, Cillo U, **Billato I**, Rovetta A, et al. (2025). Sex-based differences in survival after liver transplantation for colorectal cancer liver metastases: a multivariable analysis. *JHEP Reports*, 101505.
+10. Crowell HL, Dong Y, **Billato I**, Cai P, Emons M, et al. (2025). Orchestrating spatial transcriptomics analysis with Bioconductor. *bioRxiv*, 2025–11.
+11. **Billato I**, Pagès H, Carey V, Waldron L, Sales G, Romualdi C, Risso D (2025). Benchmarking large-scale single-cell RNA-seq analysis. *bioRxiv*, 2025–10.
+12. Lanari J, Lazzari S, **Billato I**, Naldini C, De Nardi C, et al. (2026). Microwave ablation for the treatment of non-colorectal cancer liver metastasis. *Cancers*, 18(13):2026.
+
+## Manuscripts in preparation
+
+- **Billato I**, Ramos Perez M, Omar M, Marchionni L, Davis S, Carey VJ, Pagès H, Risso D, Waldron L, Oh S, Romualdi C. *Multi-modal integration of histopathology image and multi-omics data in R/Bioconductor* (2025).
+- Rota Negroni M, **Billato I**, Romualdi C. *From Genomic Instability to Prognosis: Copy Number Signature Clusters as Predictive Biomarkers Across Tumors* (2025).
+
+## Book Chapters
+
+- OSTA — Orchestrating Spatial Transcriptomics Analysis with Bioconductor, Chapter 30: Image analysis. [Link](https://lmweber.org/OSTA/pages/ind-image-analysis.html)
+
+## Software
+
+- **imageTCGA** — Shiny app to explore the TCGA Diagnostic Image Database. [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/imageTCGA.html) · [GitHub](https://github.com/billila/imageTCGA)
+- **imageFeatureTCGA** — Imports extracted TCGA H&E image features into R and integrates them with multi-omics data. [GitHub](https://github.com/waldronlab/imageFeatureTCGA)
+- **imageTCGAutils** — Utility functions for CONCH data and nuclei-to-tile assignment. [GitHub](https://github.com/waldronlab/imageTCGAutils)
+- **TCIAAPI** — Interface to The Cancer Imaging Archive (TCIA) API for searching/downloading images. [GitHub](https://github.com/billila/TCIAAPI)

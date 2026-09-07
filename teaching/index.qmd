@@ -1,0 +1,152 @@
+---
+title: "Teaching"
+---
+
+```{=html}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+        }
+
+        .category-header {
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 34px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #d9dde1;
+            color: #495057;
+            letter-spacing: 0.01em;
+        }
+
+        .teaching-item {
+            margin: 0;
+            padding: 14px 0;
+            background: transparent;
+            border-bottom: 1px solid #e8e9eb;
+            transition: background-color 0.2s ease;
+        }
+
+        .teaching-item:hover {
+            background: #fcfcfd;
+        }
+
+        .course-name {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 5px;
+            color: #212529;
+            line-height: 1.35;
+        }
+
+        .course-meta {
+            font-size: 13px;
+            color: #6c757d;
+            display: block;
+            margin-top: 2px;
+        }
+
+        .year-label {
+            display: inline-block;
+            padding: 1px 0;
+            background: transparent;
+            color: #868e96;
+            font-size: 11px;
+            font-weight: 500;
+            margin-right: 6px;
+        }
+
+        @media (max-width: 768px) {
+            .teaching-item { padding: 12px 0; }
+            .course-name { font-size: 15px; }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="category-header">University of Padova — Teaching Assistant</div>
+
+<div class="teaching-item">
+    <div class="course-name">Advanced Statistics and Data Analysis</div>
+    <div class="course-meta">MS in Quantitative and Computational Biosciences (in English)</div>
+    <div class="course-meta"><span class="year-label">2025/26</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Genomics and NGS Data Analysis</div>
+    <div class="course-meta">MS in Quantitative and Computational Biosciences (in English)</div>
+    <div class="course-meta"><span class="year-label">2025/26</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Systems Biology</div>
+    <div class="course-meta">MS in Quantitative and Computational Biosciences (in English)</div>
+    <div class="course-meta"><span class="year-label">2024/25</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Genomics and NGS Data Analysis</div>
+    <div class="course-meta">MS in Molecular Biology, Department of Biology (in English)</div>
+    <div class="course-meta"><span class="year-label">2022/23 – 2023/24</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Statistics</div>
+    <div class="course-meta">BS in Biotechnology, Department of Biology (in Italian)</div>
+    <div class="course-meta"><span class="year-label">2021/22</span></div>
+</div>
+
+<div class="category-header">Educational Resources</div>
+
+<div class="teaching-item">
+    <div class="course-name">Educational videos on Cluster Analysis</div>
+    <div class="course-meta">Project to improve online resources of educational laboratories — Call for the Improvement of Teaching</div>
+    <div class="course-meta"><span class="year-label">2021</span></div>
+</div>
+
+<div class="category-header">Short Courses & Summer Schools</div>
+
+<div class="teaching-item">
+    <div class="course-name">ISMB/ECCB 2023 Workshop: Orchestrating Large-Scale Single-Cell Analysis with Bioconductor</div>
+    <div class="course-meta">Lyon, France</div>
+    <div class="course-meta"><span class="year-label">July 2023</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Summer School CSAMA2024 — Biological Data Science</div>
+    <div class="course-meta">Bressanone, Italy</div>
+    <div class="course-meta"><span class="year-label">June 2024</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Summer School CSAMA2025 — Biological Data Science</div>
+    <div class="course-meta">Bressanone, Italy</div>
+    <div class="course-meta"><span class="year-label">July 2025</span></div>
+</div>
+
+<div class="category-header">Organization</div>
+
+<div class="teaching-item">
+    <div class="course-name">Summer School CSAMA2026 — Biological Data Science</div>
+    <div class="course-meta">Member of the Organization Committee</div>
+    <div class="course-meta"><span class="year-label">2026</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Summer School CSAMA2025 — Biological Data Science</div>
+    <div class="course-meta">Member of the Organization Committee</div>
+    <div class="course-meta"><span class="year-label">2025</span></div>
+</div>
+
+<div class="teaching-item">
+    <div class="course-name">Summer School CSAMA2024 — Biological Data Science</div>
+    <div class="course-meta">Member of the Organization Committee</div>
+    <div class="course-meta"><span class="year-label">2024</span></div>
+</div>
+
+</body>
+```

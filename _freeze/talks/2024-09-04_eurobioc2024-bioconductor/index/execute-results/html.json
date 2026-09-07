@@ -1,0 +1,15 @@
+{
+  "hash": "9c499658e52bf2699d656353031c3c2b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Orchestrating Large-Scale Single-Cell Analysis with Bioconductor\"\nauthor: \"Ilaria Billato\"\ndate: \"2024-09-04\"\ncategories: [Talk, Single-Cell, Bioconductor]\ndescription: \"Contributed talk at EuroBioc2024, Oxford, UK.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,13 @@
+---
+title: "Integrating Histopathology Image Features with Multi-Omics Data in Breast Cancer: A TCGA-BRCA Case Study"
+author: "Ilaria Billato"
+date: "2026-06-22"
+categories: [Invited Talk, Digital Pathology, Multi-omics]
+description: "Invited presentation at SIS-FENStatS 2026, Rome, Italy."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

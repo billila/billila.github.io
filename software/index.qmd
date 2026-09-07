@@ -1,0 +1,229 @@
+---
+title: "Software"
+---
+
+```{=html}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+        }
+
+        .category-header {
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 34px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #d9dde1;
+            color: #495057;
+            letter-spacing: 0.01em;
+        }
+
+        .software-item {
+            margin: 0;
+            padding: 14px 0;
+            background: transparent;
+            border-radius: 0;
+            border-bottom: 1px solid #e8e9eb;
+            box-shadow: none;
+            transition: background-color 0.2s ease;
+        }
+
+        .software-item:hover {
+            background: #fcfcfd;
+        }
+
+        .software-name {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 5px;
+            color: #212529;
+            line-height: 1.35;
+            font-family: 'Courier New', monospace;
+        }
+
+        .software-description {
+            font-size: 13px;
+            color: #495057;
+            margin-bottom: 8px;
+            display: block;
+            margin-top: 2px;
+        }
+
+        .software-meta {
+            font-size: 13px;
+            color: #6c757d;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .role-badge {
+            display: inline-block;
+            padding: 1px 0;
+            background: transparent;
+            color: #495057;
+            border-radius: 0;
+            font-size: 11px;
+            font-weight: 500;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            border: none;
+        }
+
+        .year-label {
+            display: inline-block;
+            padding: 1px 0;
+            background: transparent;
+            color: #868e96;
+            border-radius: 0;
+            font-size: 11px;
+            font-weight: 500;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            border: none;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 1px 0;
+            background: transparent;
+            color: #b8860b;
+            border-radius: 0;
+            font-size: 11px;
+            font-weight: 500;
+            font-style: italic;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            border: none;
+        }
+
+        .package-link {
+            font-size: 12px;
+            display: inline-block;
+            padding: 4px 10px;
+            background: transparent;
+            color: #0b5ed7;
+            text-decoration: none;
+            border: 1px solid #d6dbe1;
+            border-radius: 999px;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .package-link:hover {
+            background: #f4f6f8;
+            color: #0952b3;
+            border-color: #7fb2f0;
+        }
+
+        .package-link::before {
+            content: "\f187";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            margin-right: 6px;
+        }
+
+        .github-link {
+            font-size: 12px;
+            display: inline-block;
+            padding: 4px 10px;
+            background: transparent;
+            color: #212529;
+            text-decoration: none;
+            border: 1px solid #d6dbe1;
+            border-radius: 999px;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .github-link:hover {
+            background: #f4f6f8;
+            color: #000;
+            border-color: #adb5bd;
+        }
+
+        .github-link::before {
+            content: "\f09b";
+            font-family: "Font Awesome 6 Brands";
+            font-weight: 400;
+            margin-right: 6px;
+        }
+
+        @media (max-width: 768px) {
+            .software-item { padding: 12px 0; }
+            .software-name { font-size: 15px; }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="category-header">R/Bioconductor Packages</div>
+
+<div class="software-item">
+    <div class="software-name">imageTCGA</div>
+    <div class="software-description">Shiny application to explore the TCGA Diagnostic Image Database</div>
+    <div class="software-meta">
+        <span class="year-label">2025</span>
+        <span class="role-badge">Author</span>
+        <span class="role-badge">Maintainer</span>
+    </div>
+    <a class="package-link" href="https://www.bioconductor.org/packages/release/bioc/html/imageTCGA.html">Bioconductor</a>
+    <a class="github-link" href="https://github.com/billila/imageTCGA">GitHub</a>
+</div>
+
+<div class="software-item">
+    <div class="software-name">imageFeatureTCGA</div>
+    <div class="software-description">Imports extracted TCGA H&amp;E image features into R, integrates them with multi-omics data, and connects to existing R/Bioconductor workflows</div>
+    <div class="software-meta">
+        <span class="year-label">2026</span>
+        <span class="role-badge">Author</span>
+        <span class="role-badge">Maintainer</span>
+    </div>
+    <a class="package-link" href="https://bioconductor.org/packages/release/bioc/html/imageFeatureTCGA.html">Bioconductor</a>
+    <a class="github-link" href="https://github.com/waldronlab/imageFeatureTCGA">GitHub</a>
+</div>
+
+<div class="software-item">
+    <div class="software-name">imageTCGAutils</div>
+    <div class="software-description">Utility functions for working with CONCH data and for assigning HoVer-Net nuclei to ProvGigaPath tiles with coordinate alignment</div>
+    <div class="software-meta">
+        <span class="year-label">2026</span>
+        <span class="role-badge">Author</span>
+        <span class="role-badge">Maintainer</span>
+    </div>
+    <a class="package-link" href="https://bioconductor.org/packages/release/bioc/html/imageTCGAutils.html">Bioconductor</a>
+    <a class="github-link" href="https://github.com/waldronlab/imageTCGAutils">GitHub</a>
+</div>
+
+<div class="software-item">
+    <div class="software-name">HistoImagePlot</div>
+    <div class="software-description">Spatial and compositional visualization of histopathological image features</div>
+    <div class="software-meta">
+        <span class="year-label">2026</span>
+        <span class="role-badge">Author</span>
+        <span class="role-badge">Maintainer</span>
+    </div>
+    <a class="package-link" href="https://bioconductor.org/packages/release/bioc/html/HistoImagePlot.html">Bioconductor</a>
+    <a class="github-link" href="https://github.com/waldronlab/HistoImagePlot">GitHub</a>
+</div>
+
+<div class="software-item">
+    <div class="software-name">TCIAAPI</div>
+    <div class="software-description">Interface to The Cancer Imaging Archive (TCIA) API for searching and downloading images (DICOM, tiff, svs, png)</div>
+    <div class="software-meta">
+        <span class="year-label">2024</span>
+        <span class="role-badge">Author</span>
+    </div>
+    <a class="github-link" href="https://github.com/billila/TCIAAPI">GitHub</a>
+</div>
+
+</body>
+```

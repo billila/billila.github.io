@@ -1,0 +1,13 @@
+---
+title: "Multi-Omics Integration: A Regression Based Approach"
+author: "Ilaria Billato"
+date: "2023-07-24"
+categories: [Talk, Multi-omics]
+description: "Talk at ISMB/ECCB 2023, The 31st Annual Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

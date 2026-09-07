@@ -1,0 +1,13 @@
+---
+title: "Benchmark of Single-Cell RNA-Seq Analysis Workflows: Evaluating Scalability Across R and Python"
+author: "Ilaria Billato"
+date: "2025-06-26"
+categories: [Talk, Single-Cell, Benchmarking]
+description: "Talk at the ITCR trainee meeting."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

@@ -1,0 +1,15 @@
+{
+  "hash": "605251a4ddf840bd359e47785f4ec224",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Scalable Solutions and GPU-Optimized Pipelines for Large-Scale Single-Cell Data Analysis\"\nauthor: \"Ilaria Billato\"\ndate: \"2023-12-21\"\ncategories: [Talk, Single-Cell, GPU]\ndescription: \"Talk at the Cineca - PNRR Meeting.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

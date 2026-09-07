@@ -1,0 +1,15 @@
+{
+  "hash": "628b9a7dad563c48b6aa2d5b2f259cd2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Stability of Radiomic Features to Multiple-Reader Segmentations in Contrast-Enhanced Computed Tomography Images of Hepatocellular Carcinoma (HCC)\"\nauthor: \"Ilaria Billato\"\ndate: \"2022-08-17\"\ncategories: [Talk, Radiomics, Clinical]\ndescription: \"4th European Congress of Medical Physics (ECPM).\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

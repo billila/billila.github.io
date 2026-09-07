@@ -1,0 +1,6 @@
+---
+title: "First post"
+date: 2026-09-04
+---
+
+Contenuto del primo post.

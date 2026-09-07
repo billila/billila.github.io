@@ -1,0 +1,15 @@
+{
+  "hash": "e45939eff27f8d5c5d4aa882e5845e5b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Integrative Multi-OMICS Approaches in Cancer's Research\"\nauthor: \"Ilaria Billato\"\ndate: \"2023-09-28\"\ncategories: [Talk, Multi-omics]\ndescription: \"1st Annual Meeting of the Padua Center for Network Medicine.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

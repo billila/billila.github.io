@@ -1,0 +1,15 @@
+{
+  "hash": "894a2c1fb1603df69df5d9eb7e112cd2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Enhancing Precision in Digital Pathology: Strategies for Effective Batch Effect Removal\"\nauthor: \"Ilaria Billato\"\ndate: \"2024-03-21\"\ncategories: [Poster, Digital Pathology]\ndescription: \"Poster at AI4H, Artificial Intelligence for Healthcare: Shaping the Future of Sciences, Padova, Italy.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nPoster coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

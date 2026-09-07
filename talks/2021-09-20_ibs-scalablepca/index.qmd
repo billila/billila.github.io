@@ -1,0 +1,13 @@
+---
+title: "Scalable PCA: Benchmarking Principal Component Analysis for Large-Scale Single-Cell RNA-Sequencing Data"
+author: "Ilaria Billato"
+date: "2021-09-20"
+categories: [Talk, Single-Cell, Benchmarking]
+description: "13th Virtual Conference of the Italian Region of the International Biometric Society (IBS)."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

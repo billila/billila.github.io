@@ -1,0 +1,13 @@
+---
+title: "Integrative Multi-OMICS Approaches in Cancer's Research"
+author: "Ilaria Billato"
+date: "2023-09-28"
+categories: [Talk, Multi-omics]
+description: "1st Annual Meeting of the Padua Center for Network Medicine."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

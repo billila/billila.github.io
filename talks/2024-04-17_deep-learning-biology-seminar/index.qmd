@@ -1,0 +1,13 @@
+---
+title: "Getting Started with Deep Learning in Biology"
+author: "Ilaria Billato"
+date: "2024-04-17"
+categories: [Invited Talk, Deep Learning]
+description: "Seminar at the Department of Biology, University of Padova."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

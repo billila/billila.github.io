@@ -1,0 +1,15 @@
+{
+  "hash": "ee0c39cf05c337ff20713b95b0724e3a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Multi-Omics Integration: A Regression Based Approach\"\nauthor: \"Ilaria Billato\"\ndate: \"2023-07-24\"\ncategories: [Talk, Multi-omics]\ndescription: \"Talk at ISMB/ECCB 2023, The 31st Annual Intelligent Systems For Molecular Biology and the 22nd Annual European Conference on Computational Biology.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

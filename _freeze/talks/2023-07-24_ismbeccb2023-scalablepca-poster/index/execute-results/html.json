@@ -1,0 +1,15 @@
+{
+  "hash": "0134cae252149b89d1dd9397d5ed1780",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"ScalablePCA: Benchmarking Principal Component Analysis for Large-Scale Single-Cell RNA-Sequencing Data\"\nauthor: \"Ilaria Billato\"\ndate: \"2023-07-24\"\ncategories: [Poster, Single-Cell, Benchmarking]\ndescription: \"Poster session at ISMB/ECCB 2023.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nPoster coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

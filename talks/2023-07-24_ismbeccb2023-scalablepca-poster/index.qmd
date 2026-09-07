@@ -1,0 +1,13 @@
+---
+title: "ScalablePCA: Benchmarking Principal Component Analysis for Large-Scale Single-Cell RNA-Sequencing Data"
+author: "Ilaria Billato"
+date: "2023-07-24"
+categories: [Poster, Single-Cell, Benchmarking]
+description: "Poster session at ISMB/ECCB 2023."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Poster coming soon.

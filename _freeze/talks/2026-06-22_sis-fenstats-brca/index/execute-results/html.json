@@ -1,0 +1,15 @@
+{
+  "hash": "4aae39ecbc294a799ebad5ef6438e1b5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Integrating Histopathology Image Features with Multi-Omics Data in Breast Cancer: A TCGA-BRCA Case Study\"\nauthor: \"Ilaria Billato\"\ndate: \"2026-06-22\"\ncategories: [Invited Talk, Digital Pathology, Multi-omics]\ndescription: \"Invited presentation at SIS-FENStatS 2026, Rome, Italy.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,13 @@
+---
+title: "A Standardized R/Bioconductor Framework for Integrative Analysis of Histopathological Images with Multi-Omics Data"
+author: "Ilaria Billato"
+date: "2025-06-25"
+categories: [Talk, Digital Pathology, Multi-omics]
+description: "Contributed talk at GBCC2025, Cold Spring Harbor, NY, USA."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

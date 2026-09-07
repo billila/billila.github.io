@@ -1,0 +1,13 @@
+---
+title: "Benchmark of Single-Cell RNA-Seq Analysis Workflows: Evaluating Scalability Across R and Python"
+author: "Ilaria Billato"
+date: "2024-09-16"
+categories: [Poster, Single-Cell, Benchmarking]
+description: "Poster at ECCB 2024, 23rd European Conference on Computational Biology, Turku, Finland."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Poster coming soon.

@@ -1,0 +1,15 @@
+{
+  "hash": "6e9327de0a6b7b2b243d25375fe2621f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Benchmark of Single-Cell RNA-Seq Analysis Workflows: Evaluating Scalability Across R and Python\"\nauthor: \"Ilaria Billato\"\ndate: \"2024-09-16\"\ncategories: [Poster, Single-Cell, Benchmarking]\ndescription: \"Poster at ECCB 2024, 23rd European Conference on Computational Biology, Turku, Finland.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nPoster coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

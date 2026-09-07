@@ -1,0 +1,15 @@
+{
+  "hash": "06b224366965a48311b0bd5282111a4a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"A Standardized R/Bioconductor Framework for Integrative Analysis of Histopathological Images with Multi-Omics Data\"\nauthor: \"Ilaria Billato\"\ndate: \"2025-09-18\"\ncategories: [Talk, Digital Pathology, Multi-omics]\ndescription: \"Contributed talk at EuroBioc2025, Barcelona, Spain.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

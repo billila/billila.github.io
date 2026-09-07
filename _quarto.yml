@@ -15,7 +15,11 @@ website:
       - text: "{{< fa file-lines >}} Publications"
         href: publications.qmd
       - text: "{{< fa person-chalkboard >}} Talk"
-        href: talks.qmd
+        href: talks/index.qmd
+      - text: "{{< fa code >}} Software"
+        href: software/index.qmd
+      - text: "{{< fa chalkboard-user >}} Teaching"
+        href: teaching/index.qmd
       - text: "{{< fa pen-nib >}} Blog"
         href: blog.qmd
       - text: "{{< fa user >}} CV"

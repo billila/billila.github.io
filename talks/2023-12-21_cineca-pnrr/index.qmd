@@ -1,0 +1,13 @@
+---
+title: "Scalable Solutions and GPU-Optimized Pipelines for Large-Scale Single-Cell Data Analysis"
+author: "Ilaria Billato"
+date: "2023-12-21"
+categories: [Talk, Single-Cell, GPU]
+description: "Talk at the Cineca - PNRR Meeting."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

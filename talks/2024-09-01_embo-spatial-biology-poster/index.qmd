@@ -1,0 +1,13 @@
+---
+title: "Integrating Machine Learning and Omics Data to Address Batch Effects in Histopathological Image Analysis for Cancer Research"
+author: "Ilaria Billato"
+date: "2024-09-01"
+categories: [Poster, Digital Pathology, Machine Learning]
+description: "Poster at the EMBO Workshop: The Spatial Biology of Cancer — International Conference, London, UK."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Poster coming soon.

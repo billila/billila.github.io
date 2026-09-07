@@ -1,0 +1,273 @@
+---
+title: "Publications & Preprints"
+---
+
+```{=html}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+        }
+
+        .year-header {
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 34px;
+            margin-bottom: 8px;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #d9dde1;
+            color: #495057;
+            letter-spacing: 0.01em;
+        }
+
+        .publication {
+            margin: 0;
+            padding: 14px 0;
+            border-bottom: 1px solid #e8e9eb;
+            background: transparent;
+            border-radius: 0;
+            box-shadow: none;
+            transition: background-color 0.2s ease;
+        }
+
+        .publication:hover {
+            background: #fcfcfd;
+        }
+
+        .papertitle {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 5px;
+            color: #212529;
+            line-height: 1.35;
+        }
+
+        .authors {
+            font-style: italic;
+            display: inline;
+            margin-bottom: 0;
+            font-size: 13px;
+            color: #6c757d;
+        }
+
+        .journal {
+            font-size: 13px;
+            color: #495057;
+            display: inline;
+        }
+
+        .journal::before {
+            content: " • ";
+            color: #adb5bd;
+        }
+
+        .journal::after {
+            content: "";
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .link {
+            font-size: 12px;
+            display: inline-block;
+            padding: 4px 10px;
+            background: transparent;
+            color: #495057;
+            text-decoration: none;
+            border-radius: 999px;
+            border: 1px solid #d6dbe1;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .link:hover {
+            background: #f4f6f8;
+            border-color: #adb5bd;
+            color: #212529;
+        }
+
+        .link::before {
+            content: "\f15c";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            margin-right: 6px;
+        }
+
+        .code-link {
+            font-size: 12px;
+            display: inline-block;
+            padding: 4px 10px;
+            background: transparent;
+            color: #6c757d;
+            text-decoration: none;
+            border: 1px solid #d6dbe1;
+            border-radius: 999px;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            transition: all 0.2s ease;
+            font-weight: 500;
+        }
+
+        .code-link:hover {
+            background: #f4f6f8;
+            color: #212529;
+            border-color: #adb5bd;
+        }
+
+        .code-link::before {
+            content: "\f121";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            margin-right: 6px;
+        }
+
+        .preprint-tag {
+            font-size: 12px;
+            display: inline-block;
+            padding: 4px 10px;
+            background: transparent;
+            color: #0b7285;
+            text-decoration: none;
+            border: 1px solid #d6dbe1;
+            border-radius: 999px;
+            margin-right: 6px;
+            margin-bottom: 6px;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .publication { padding: 12px 0; }
+            .papertitle { font-size: 16px; }
+        }
+    </style>
+</head>
+
+
+<body>
+<div class="year-header">In preparation</div>
+
+<div class="publication">
+    <div class="papertitle">Multi-modal integration of histopathology image and multi-omics data in R/Bioconductor</div>
+    <div class="authors">I. Billato, M. Ramos Perez, M. Omar, L. Marchionni, S. Davis, V.J. Carey, H. Pagès, D. Risso, L. Waldron, S. Oh, C. Romualdi</div>
+    <div class="journal">Manuscript in preparation</div>
+</div>
+
+<div class="publication">
+    <div class="papertitle">From Genomic Instability to Prognosis: Copy Number Signature Clusters as Predictive Biomarkers Across Tumors</div>
+    <div class="authors">M. Rota Negroni, I. Billato, C. Romualdi</div>
+    <div class="journal">Manuscript in preparation</div>
+</div>
+
+<div class="year-header">2026</div>
+
+<div class="publication">
+    <div class="papertitle">Microwave Ablation for the Treatment of Non-Colorectal Cancer Liver Metastasis</div>
+    <div class="authors">J. Lanari, S. Lazzari, I. Billato, C. Naldini, C. De Nardi, G. Tamponi, D. Volpato, A. Furlanetto, F.E. D'Amico, A. Vitale</div>
+    <div class="journal">Cancers, 18(13):2026</div>
+    <a class="link" href="https://doi.org/10.3390/cancers18132026">Paper</a>
+</div>
+
+<div class="year-header">2025</div>
+
+<div class="publication">
+    <div class="papertitle">LIRICA and LITALHICA: Redefining Liver Transplantation for Cholangiocarcinoma Through a Multidisciplinary Tumor Board Approach</div>
+    <div class="authors">E. Gringeri, A. Furlanetto, D. Pinelli, S. Gruttadauria, A. Lauterio, F. Di Benedetto, R. Romagnoli, D. Ghinolfi, A. Carraro, M. Vivarelli, J. Lanari, E. Nieddu, E. Rosso, S. Lazzari, C. De Nardi, I. Billato, et al.</div>
+    <div class="journal">Digestive and Liver Disease</div>
+    <a class="link" href="https://doi.org/10.1016/j.dld.2025.08.041">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Orchestrating spatial transcriptomics analysis with Bioconductor</div>
+    <div class="authors">H.L. Crowell, Y. Dong, I. Billato, P. Cai, M. Emons, S. Gunz, B. Guo, M. Li, et al.</div>
+    <div class="journal">bioRxiv</div>
+    <a class="preprint-tag">Preprint</a>
+    <a class="link" href="https://doi.org/10.1101/2025.11.20.688607">Read</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Benchmarking large-scale single-cell RNA-seq analysis</div>
+    <div class="authors">I. Billato, H. Pagès, V. Carey, L. Waldron, G. Sales, C. Romualdi, D. Risso</div>
+    <div class="journal">bioRxiv</div>
+    <a class="preprint-tag">Preprint</a>
+    <a class="link" href="https://doi.org/10.1101/2025.10.28.681564">Read</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Hierarchically Positioning Laparoscopic Microwave Ablation in the Therapeutic Span of Early Hepatocellular Carcinoma: A Real-Life Comparative Analysis</div>
+    <div class="authors">U. Cillo, S. Caregari, M. Barabino, I. Billato, A. Marchini, A. Furlanetto, S. Lazzari, M. Brolese, M. Ballo, E. Biasini, et al.</div>
+    <div class="journal">Annals of Surgical Oncology, 32(2):1063–1072</div>
+    <a class="link" href="https://doi.org/10.1245/s10434-024-16462-8">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Sex-Based Differences in Survival After Liver Transplantation for Colorectal Cancer Liver Metastases: A Multivariable Analysis</div>
+    <div class="authors">A. Vitale, J. Lanari, U. Cillo, I. Billato, A. Rovetta, M.A. Mansournia, M. Cescon, M. Serenari, F. Aucejo, B. Estfan, et al.</div>
+    <div class="journal">JHEP Reports, 7(10):101505</div>
+    <a class="link" href="https://doi.org/10.1016/j.jhepr.2025.101505">Paper</a>
+</div>
+
+<div class="year-header">2024</div>
+
+<div class="publication">
+    <div class="papertitle">Liver Resection versus Radiofrequency Ablation or Trans-Arterial Chemoembolization for Early-Stage (BCLC A) Oligo-Nodular Hepatocellular Carcinoma: Meta-Analysis</div>
+    <div class="authors">P. Romano, M. Busti, I. Billato, F. D'Amico, G. Marchegiani, F. Pelizzaro, A. Vitale, U. Cillo</div>
+    <div class="journal">BJS Open, 8(1):zrad158</div>
+    <a class="link" href="https://doi.org/10.1093/bjsopen/zrad158">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Waiting List Mortality and 5-Year Transplant Survival Benefit of Patients with MASLD: An Italian Liver Transplant Registry Study</div>
+    <div class="authors">A. Vitale, S. Trapani, F.P. Russo, L. Miele, G. Svegliati Baroni, G. Marchesini, P. Burra, et al.</div>
+    <div class="journal">JHEP Reports, 6(9):101147</div>
+    <a class="link" href="https://doi.org/10.1016/j.jhepr.2024.101147">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">The Italian Experience on Liver Transplantation for Unresectable Peri-Hilar Cholangiocarcinoma: A National Survey and Future Perspectives</div>
+    <div class="authors">E. Gringeri, A. Furlanetto, I. Billato, M. Cescon, L. De Carlis, V. Mazzaferro, R. Romagnoli, et al.</div>
+    <div class="journal">Updates in Surgery, 76:2505–2513</div>
+    <a class="link" href="https://doi.org/10.1007/s13304-024-01889-1">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Textbook Outcome and Nomogram-Guided Approaches for Enhancing Surgical Success in Elderly HCC Patients: Deciphering the Influence of Sarcopenia</div>
+    <div class="authors">J. Lanari, A. Lupi, I. Billato, R. Alessandris, F. Crimì, S. Caregari, A. Pepe, F.E. D'Amico, A. Vitale, E. Quaia, U. Cillo, E. Gringeri</div>
+    <div class="journal">Updates in Surgery, 76:2645–2654</div>
+    <a class="link" href="https://doi.org/10.1007/s13304-024-01992-3">Paper</a>
+</div>
+
+<div class="publication">
+    <div class="papertitle">Pathogenic Mitochondrial DNA Variants Are Associated with Response to Anti-VEGF Therapy in Ovarian Cancer PDX Models</div>
+    <div class="authors">D. Boso, I. Piga, C. Trento, S. Minuzzo, E. Angi, L. Iommarini, E. Lazzarini, L. Caporali, C. Fiorini, L. D'Angelo, M. De Luise, I. Kurelac, M. Fassan, A.M. Porcelli, F. Navaglia, I. Billato, G. Esposito, G. Gasparre, C. Romualdi, S. Indraccolo</div>
+    <div class="journal">Journal of Experimental & Clinical Cancer Research, 43:325</div>
+    <a class="link" href="https://doi.org/10.1186/s13046-024-03239-w">Paper</a>
+</div>
+
+<div class="year-header">2023</div>
+
+<div class="publication">
+    <div class="papertitle">Textbook Outcome of Laparoscopic Microwave Ablation for Hepatocellular Carcinoma</div>
+    <div class="authors">J. Lanari, S. Caregari, I. Billato, E. Gringeri, F. D'Amico, G. Gemo, D. Bassi, F.E. D'Amico, R. Boetto, A. Bertacco, et al.</div>
+    <div class="journal">Cancers, 15(2):436</div>
+    <a class="link" href="https://doi.org/10.3390/cancers15020436">Paper</a>
+</div>
+
+<div class="year-header">2022</div>
+
+<div class="publication">
+    <div class="papertitle">Impact of Positive Radial Margin on Recurrence and Survival in Perihilar Cholangiocarcinoma</div>
+    <div class="authors">F.E. D'Amico, C. Mescoli, S. Caregari, A. Pasquale, I. Billato, R. Alessandris, J. Lanari, D. Bassi, R. Boetto, F. D'Amico, et al.</div>
+    <div class="journal">Cancers, 14(7):1680</div>
+    <a class="link" href="https://doi.org/10.3390/cancers14071680">Paper</a>
+</div>
+
+</body>
+```
+
+## Book Chapters
+
+- OSTA — Orchestrating Spatial Transcriptomics Analysis with Bioconductor, Chapter 30: Image analysis. [Link](https://lmweber.org/OSTA/pages/ind-image-analysis.html)

@@ -1,0 +1,13 @@
+---
+title: "Enhancing Precision in Digital Pathology: Strategies for Effective Batch Effect Removal"
+author: "Ilaria Billato"
+date: "2024-03-21"
+categories: [Poster, Digital Pathology]
+description: "Poster at AI4H, Artificial Intelligence for Healthcare: Shaping the Future of Sciences, Padova, Italy."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Poster coming soon.

@@ -1,0 +1,15 @@
+{
+  "hash": "12fc34aaf13f57ba36fade4beedb3ef4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Getting Started with Deep Learning in Biology\"\nauthor: \"Ilaria Billato\"\ndate: \"2024-04-17\"\ncategories: [Invited Talk, Deep Learning]\ndescription: \"Seminar at the Department of Biology, University of Padova.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

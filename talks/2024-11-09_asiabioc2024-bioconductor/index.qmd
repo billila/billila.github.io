@@ -1,0 +1,13 @@
+---
+title: "Orchestrating Large-Scale Single-Cell Analysis with Bioconductor"
+author: "Ilaria Billato"
+date: "2024-11-09"
+categories: [Talk, Single-Cell, Bioconductor]
+description: "Contributed talk at AsiaBioc2024, Australia."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

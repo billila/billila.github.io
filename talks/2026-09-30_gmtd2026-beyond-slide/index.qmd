@@ -1,0 +1,17 @@
+---
+title: "Beyond the Slide: Integrating Histopathological Image Features with Multi-Omics Data in R/Bioconductor"
+author: "Ilaria Billato"
+date: "2026-09-30"
+categories: [Invited Talk, Digital Pathology, Multi-omics]
+description: "Invited talk at GMTD 2026 (Generative Models for Therapeutic Discovery), University of Cambridge, UK."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Histopathological images provide unique insight into tissue architecture, cellular morphology, and tumor spatial organization, yet their computational analysis largely happens outside the R/Bioconductor ecosystem, the primary environment for omics analysis, creating a barrier to truly integrative multi-modal studies. We address this gap with a suite of R/Bioconductor packages built around a large-scale, pre-computed image feature resource derived from the complete TCGA collection of diagnostic H&E whole-slide images (11,765 images, 9,640 cases, 32 cancer types). imageFeatureTCGA provides the pre-computed nuclear segmentation and classification (via HoVer-Net) and tile-/slide-level embeddings (via the ProvGigaPath foundation model), organized in Bioconductor-native structures (SpatialExperiment, SpatialFeatureExperiment, MultiAssayExperiment); imageTCGAutils handles data retrieval and matching of image features to TCGA identifiers; HistoImagePlot offers spatial and compositional visualization; and imageTCGA provides an exploratory interface linking features to the original images. These resources make histopathological features directly integrable with TCGA molecular data, RNA-seq, methylation, mutations, copy-number alterations, and clinical annotations. We illustrate the framework with two case studies: an ovarian cancer analysis, and a TCGA-BRCA case study integrating ProvGigaPath slide embeddings with RNA-seq, RPPA, miRNA and CNV data via MOFA+, where latent factors capture the proliferative/Basal-like versus luminal axis and several are significantly associated with overall survival. Together, these tools bridge histopathological image analysis and multi-omic integration within a unified R/Bioconductor framework, supporting hypothesis generation and validation across tumor types.
+
+**Speaker bio:** Ilaria Billato is a postdoctoral researcher in the Department of Biology at the University of Padova, in the Romualdi Lab, with a background in statistics. She works at the interface of computational pathology, bioinformatics, and multi-omic data integration, spanning histopathology image analysis, spatial transcriptomics, and clinical-omics studies, with a focus on foundation models applied to biomedical imaging. She is an active member of the Bioconductor "Multi-omic Integration of Histopathology Image Analysis" working group.
+
+More info: [GMTD 2026 programme](https://www.gmtd2026.org/programme.html)

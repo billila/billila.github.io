@@ -1,0 +1,15 @@
+{
+  "hash": "4b3ae6f5bf202d18e936cee83845943f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"From Pixels to Patients: AI, Imaging, and Multi-omics Integration in Precision Medicine\"\nauthor: \"Ilaria Billato\"\ndate: \"2026-02-17\"\ncategories: [Invited Talk, Digital Pathology, AI]\ndescription: \"Invited seminar at Winter School 2026 — Basic and Translational Sciences, Padova, Italy.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

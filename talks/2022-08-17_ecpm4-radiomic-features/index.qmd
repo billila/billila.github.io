@@ -1,0 +1,13 @@
+---
+title: "Stability of Radiomic Features to Multiple-Reader Segmentations in Contrast-Enhanced Computed Tomography Images of Hepatocellular Carcinoma (HCC)"
+author: "Ilaria Billato"
+date: "2022-08-17"
+categories: [Talk, Radiomics, Clinical]
+description: "4th European Congress of Medical Physics (ECPM)."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

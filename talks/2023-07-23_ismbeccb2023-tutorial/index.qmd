@@ -1,0 +1,13 @@
+---
+title: "Tutorial: Orchestrating Large-Scale Single-Cell Analysis with Bioconductor"
+author: "Ilaria Billato"
+date: "2023-07-23"
+categories: [Tutorial, Single-Cell, Bioconductor]
+description: "Tutorial at ISMB/ECCB 2023, Lyon, France."
+engine: knitr
+comments: false
+execute:
+  freeze: true
+---
+
+Slides coming soon.

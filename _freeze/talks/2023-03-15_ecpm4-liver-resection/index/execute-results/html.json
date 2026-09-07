@@ -1,0 +1,15 @@
+{
+  "hash": "d83a653aa1af91752030b7f6ac1b8576",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Ex Situ Liver Resection for Intrahepatic Cholangiocarcinoma: Survival Analysis and Comparison to Systematic Chemotherapy\"\nauthor: \"Ilaria Billato\"\ndate: \"2023-03-15\"\ncategories: [Talk, Clinical]\ndescription: \"4th European Congress of Medical Physics (ECPM).\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nSlides coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

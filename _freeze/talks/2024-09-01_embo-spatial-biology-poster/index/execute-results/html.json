@@ -1,0 +1,15 @@
+{
+  "hash": "bdf01cef22fb4ea12059bfb515c49541",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Integrating Machine Learning and Omics Data to Address Batch Effects in Histopathological Image Analysis for Cancer Research\"\nauthor: \"Ilaria Billato\"\ndate: \"2024-09-01\"\ncategories: [Poster, Digital Pathology, Machine Learning]\ndescription: \"Poster at the EMBO Workshop: The Spatial Biology of Cancer — International Conference, London, UK.\"\nengine: knitr\ncomments: false\nexecute:\n  freeze: true\n---\n\nPoster coming soon.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
